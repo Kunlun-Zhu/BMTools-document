@@ -220,6 +220,5 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   index
+   tools
