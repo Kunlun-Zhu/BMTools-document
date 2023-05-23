@@ -228,3 +228,12 @@ Star History
 .. image:: https://api.star-history.com/svg?repos=OpenBMB/BMTools&type=Date
     :width: 600px
     :align: center
+
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
