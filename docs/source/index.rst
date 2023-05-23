@@ -1,15 +1,20 @@
-Main Document
+Main
 ===================================
 
 .. raw:: html
 
+   
     <div align= "center">
-        <h1> BMTools</h1>
+        <h1><img src="pics/logo.png" height="28px" />  BMTools</h1>
     </div>
 
 .. _Chinese: README_zh.md
 
 .. raw:: html
+
+   <div align="center">
+   <img src="pics/overview.png" width="700px">
+   </div>
 
 BMTools is an open-source repository that extends language models using tools and serves as a platform for the community to build and share tools. In this repository, you can (1) easily build a plugin by writing python functions (2) use external ChatGPT-Plugins. 
 
@@ -18,6 +23,10 @@ This project is inspired by the open-source project `LangChain <https://github.c
 - **A demo of using BMTools to manipulate tools for meta analysis.**
 
 .. raw:: html
+
+    <div align="center">
+    <img src="pics/meta0423.gif" width="700px">
+    </div>
 
 What's New
 ----------
