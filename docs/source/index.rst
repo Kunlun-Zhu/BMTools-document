@@ -1,4 +1,4 @@
-Welcome to BMTool's documentation!
+Main Document
 ===================================
 
 .. raw:: html
@@ -18,10 +18,6 @@ This project is inspired by the open-source project `LangChain <https://github.c
 - **A demo of using BMTools to manipulate tools for meta analysis.**
 
 .. raw:: html
-
-    <div align="center">
-    <img src="docs/meta0423.gif" width="700px">
-    </div>
 
 What's New
 ----------
