@@ -4,26 +4,12 @@ Welcome to BMTool's documentation!
 .. raw:: html
 
     <div align= "center">
-        <h1><img src="docs/logo.png" height="28px" /> BMTools</h1>
+        <h1> BMTools</h1>
     </div>
-
-    <p align="center">
-      <a href="#whats-new">News</a> •
-      <a href="#1-setup">Setup</a> •
-      <a href="#2-use-existing-tools">How To Use</a> •
-      <a href="https://arxiv.org/abs/2304.08354">Paper</a> •
-      <a href="https://github.com/thunlp/ToolLearningPapers">Paper List</a> •
-      <a href="https://huggingface.co/spaces/congxin95/BMTools-demo">Demo</a> •
-      <a href="#citation">Citation</a> •
-    </p>
 
 .. _Chinese: README_zh.md
 
 .. raw:: html
-
-    <div align="center">
-    <img src="docs/overview.png" width="700px">
-    </div>
 
 BMTools is an open-source repository that extends language models using tools and serves as a platform for the community to build and share tools. In this repository, you can (1) easily build a plugin by writing python functions (2) use external ChatGPT-Plugins. 
 
